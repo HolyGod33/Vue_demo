@@ -15,7 +15,6 @@ require('tracking/build/tracking-min.js')
 require('tracking/build/data/face-min.js')
 require('tracking/build/data/mouth-min.js')
 require('tracking/examples/assets/stats.min.js')
-import tracking from 'tracking'
 
 export default {
   name: 'TestTracking',
